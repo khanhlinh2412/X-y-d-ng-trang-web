@@ -1,0 +1,17 @@
+.labs{
+    color:white;
+    font-size: 240px;
+    margin: 200px;
+    background-color: rgb(28, 28, 130);
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    line-height: 190px;
+    border-radius: 50%;
+    box-shadow: 0 0 0 50px rgba(172, 15, 15),
+    0 0 0 100px white,
+    0 0 0 150px rgba(172, 15, 15);
+}
+
+    
+
